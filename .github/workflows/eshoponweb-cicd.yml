@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6cbecc4b-6841-435c-b532-ae0649447a02
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  WEBAPP-NAME: eshoponweb-webapp-shwetali
 
 jobs:
   #Build, test and publish .net web project in repository
